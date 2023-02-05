@@ -33,10 +33,6 @@ const serviceData = [
     icon: "ri-map-pin-line",
     desc: "Tempor tempor sadipscing vero lorem sea, invidunt sed et eos ipsum et erat. Dolor ut duo sadipscing lorem. Gubergren gub",
   }
-
   
-];
+];export default serviceData;
 
-
-
-export default serviceData;

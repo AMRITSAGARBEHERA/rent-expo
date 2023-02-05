@@ -50,12 +50,10 @@ setSearch(data)
         </select>
         <button onClick={getVehicles}>search</button>
     </div>
-        <div className="flex gap-2 flex-wrap flex-row mx-auto">
-          
+        
         {
           search.map((item)=><CarItem  item={item}/>)
         }
-        </div>
 
 
      
